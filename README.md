@@ -5,5 +5,3 @@
 - [React Hook Form/react-hook-form](https://github.com/react-hook-form/react-hook-form/pulls?q=author%3Am2na7+is%3Aclosed)
 - [toss/react-simplikit](https://github.com/toss/react-simplikit/pulls?q=author%3Am2na7+is%3Aclosed)
 - [toss/suspensive](https://github.com/toss/suspensive/pulls?q=author%3Am2na7+is%3Aclosed)
-- [toss/granite](https://github.com/toss/granite/pulls?q=author%3Am2na7+is%3Aclosed)
-- [toss/use-funnel](https://github.com/toss/use-funnel/pulls?q=author%3Am2na7+is%3Aclosed)
